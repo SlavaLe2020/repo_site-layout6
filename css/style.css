@@ -76,8 +76,7 @@ a {
 .header-slider {
     padding-top: 111px;
 }
-.header-slider__item {
-}
+
 .header-slider__item-content {
     display: flex;
     justify-content: space-between;
@@ -138,4 +137,23 @@ a {
 .header-dots .slick-active button {
     width: 15px;
     opacity: 1;
+}
+
+.specialised {
+}
+.container {
+}
+.specialised__title {
+}
+.title {
+}
+.specialised__items {
+}
+.specialised__item {
+}
+.specialised__item-img {
+}
+.specialised__item-title {
+}
+.specialised__item-text {
 }
